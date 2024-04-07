@@ -184,7 +184,6 @@ overall_score.add_subject(Subject('データ構造とアルゴリズム',2,96,24
 # overall_score.add_subject(Subject('コンパイラ構成',2,0,32))
 # overall_score.add_subject(Subject('生命情報解析',2,0,32))
 # overall_score.add_subject(Subject('パターン認識',2,0,32))
-
             
             
 input = list(input().split(','))
